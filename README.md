@@ -2,6 +2,8 @@
 
 Este documento descreve o código JavaScript que cria um mapa interativo com uma camada de tráfego ativável, um controle de camada e um componente de pesquisa de lugares. O código utiliza a biblioteca Google Maps JavaScript para renderizar o mapa e fornecer recursos de interatividade.
 
+![Pagína HTML](map.png)
+
 ## Variáveis Globais
 ### map
 
